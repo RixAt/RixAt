@@ -11,6 +11,8 @@
 ```
 <!-- END OF ASCII ART --> 
 
+# Hey there, I'm Ricky 👋
+
 ### About Me
 I'm a software engineer from Ohio, U.S.A.
 
